@@ -1,4 +1,4 @@
-﻿# Content_Forage
+﻿# Content_Forge
 AI-Assisted Co-Pilot for Creators
 🚀 Problem
 
@@ -40,3 +40,4 @@ Infrastructure: CloudFront, CloudWatch, IAM, EventBridge
 🎯 Goal
 
 Build a scalable AI-assisted content lifecycle system that enhances creativity, efficiency, and growth.
+
