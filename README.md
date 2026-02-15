@@ -1,7 +1,7 @@
 ﻿# Content_Forge
 AI-Assisted Co-Pilot for Creators
-🚀 Problem
 
+🚀 Problem
 Content creators spend excessive time on ideation, scripting, editing, and analytics. Existing tools provide insights but lack predictive AI assistance and workflow automation.
 
 💡 Solution
@@ -40,4 +40,5 @@ Infrastructure: CloudFront, CloudWatch, IAM, EventBridge
 🎯 Goal
 
 Build a scalable AI-assisted content lifecycle system that enhances creativity, efficiency, and growth.
+
 
