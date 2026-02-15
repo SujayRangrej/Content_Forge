@@ -34,13 +34,18 @@ Performance insights improve future content strategy.
 🛠 Tech Stack
 
 Frontend: React + TypeScript, Tailwind CSS
+
 Backend: AWS Lambda, API Gateway, DynamoDB, S3
+
 AI Services: Amazon Bedrock / OpenAI API, Amazon Transcribe
+
 Infrastructure: CloudFront, CloudWatch, IAM, EventBridge
+
 
 🎯 Goal
 
 Build a scalable AI-assisted content lifecycle system that enhances creativity, efficiency, and growth.
+
 
 
 
